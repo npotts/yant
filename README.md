@@ -1,4 +1,4 @@
-# yant - Yet Another (Go) Null Time
+# yant - Yet Another (Go) Null Time  [![GoDoc](https://godoc.org/github.com/npotts/yant?status.svg)](https://godoc.org/github.com/npotts/yant) [![codebeat badge](https://codebeat.co/badges/c15f0751-cd3f-46d6-b48a-866d068841e1)](https://codebeat.co/projects/github-com-npotts-yant)
 
 This is a stripped down library that fulfulls the Valuer interface required to work with null'able database fields.
 
