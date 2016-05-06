@@ -1,4 +1,4 @@
-# yant - Yet Another (Go) Null Time  [![GoDoc](https://godoc.org/github.com/npotts/yant?status.svg)](https://godoc.org/github.com/npotts/yant) [![codebeat badge](https://codebeat.co/badges/c15f0751-cd3f-46d6-b48a-866d068841e1)](https://codebeat.co/projects/github-com-npotts-yant) [![Build Status](https://travis-ci.org/npotts/yant.svg?branch=master)](https://travis-ci.org/npotts/yant)
+# yant - Yet Another (Go) Null Time  [![GoDoc](https://godoc.org/github.com/npotts/yant?status.svg)](https://godoc.org/github.com/npotts/yant) [![codebeat badge](https://codebeat.co/badges/c15f0751-cd3f-46d6-b48a-866d068841e1)](https://codebeat.co/projects/github-com-npotts-yant) [![Build Status](https://travis-ci.org/npotts/yant.svg?branch=master)](https://travis-ci.org/npotts/yant) [![Coverage Status](https://coveralls.io/repos/github/npotts/yant/badge.svg?branch=master)](https://coveralls.io/github/npotts/yant?branch=master) [![Go Report Card](https://goreportcard.com/badge/github.com/npotts/yant)](https://goreportcard.com/report/github.com/npotts/yant)
 
 This is a stripped down library that fulfulls the Valuer interface required to work with null'able database fields.
 
