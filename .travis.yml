@@ -4,7 +4,11 @@ go:
  - 1.4.2
  - 1.5.1
  - release
- - tip
+# - tip
 
 script:
  - go test -v ./...
+
+
+after_success:
+  - bash <(curl -s https://codecov.io/bash)
